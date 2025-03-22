@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, inital-scale=1.0"> 
+    <title>rivoltz</title>
+  </head>
+  <body>
+    <img src="sC:\Users\eduardo.sarmento\Documents\Curriculo\img\token_2.png" alt="Icon">
+    <main>
+      <p>
+        <h1>Currículo</h1>
+      </p>
+    </main>
+      <p>
+        <b>INFORMAÇÕES</b>
+         <li>Nome:  Eduardo Raphael Sarmento Souza</li>
+         <li>Data de Nascimento: 03/02/2007</li>
+         <li>Naturalidade: Brasil</li>
+      </p>
+      <p>
+        <b>CONTANTO</b>
+         <li>Email: edurafael4242@gmail.com</li>
+         <nav><li>https://github.com/rivoltzz</li></nav>
+      </p>
+      <p>
+        <b>FORMAÇÃO ACADÊMICA</b>
+         <li>Ensino Médio (concluido)</li> 
+         <li>Ciência Da Computação (cursando)</li>
+      </p>
+      <p>
+        <b>EXPERIÊNCIA</b>
+         <li>Nenhuma</li>
+      </p>
+  </body>
+</html>
