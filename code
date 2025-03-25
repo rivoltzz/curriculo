@@ -17,20 +17,59 @@
          <li>Nome:  Eduardo Raphael Sarmento Souza</li>
          <li>Data de Nascimento: 03/02/2007</li>
          <li>Naturalidade: Brasil</li>
+          <hr>
       </p>
       <p>
         <b>CONTANTO</b>
          <li>Email: edurafael4242@gmail.com</li>
          <nav><li>https://github.com/rivoltzz</li></nav>
-      </p>
-      <p>
-        <b>FORMAÇÃO ACADÊMICA</b>
-         <li>Ensino Médio (concluido)</li> 
-         <li>Ciência Da Computação (cursando)</li>
+          <hr>
       </p>
       <p>
         <b>EXPERIÊNCIA</b>
          <li>Nenhuma</li>
+          <hr> 
+      </p>
+<!FORMULARIOS>
+      <p>
+        <b>FORMAÇÃO ACADÊMICA</b>    
+         <table width="100%" border="1"
+         style="text-align: center;">
+            <tr>
+                <th>Curso/Certificação</th>
+                <th>Instituição</th>
+                <th>Estado</th>
+            </tr>
+            <tr>
+                <td>Ensino Médio</td>
+                <td>Colegio Estadual Novo Gama</td>
+                <td>Concluido</td>
+            </tr>
+            <tr>
+                <td>Ciência Da Computação</td>
+                <td>Universidade Católica De Brasília</td>
+                <td>Cursando</td>
+            </tr>
+         </table> 
+         <hr>  
+      </p>
+        <b>IDIOMAS</b> 
+      <p>
+        <table width="100%" border="1"
+        style="text-align: center;">
+            <tr>
+                <th>Idioma</th>
+                <th>Nível</th>
+            </tr>
+            <tr>
+                <td>Inglês</td>
+                <td>Avançado</td>
+            </tr>
+            <tr>
+                <td>Espanhol</td>
+                <td>Iniciante</td>
+            </tr>
+        </table>
       </p>
   </body>
 </html>
