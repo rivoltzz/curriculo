@@ -12,28 +12,61 @@
         <h1>Currículo</h1>
       </p>
     </main>
+<!-- NAVEGAÇÃO -->    
+  <nav>
+    <ul>
+      <li><a href="#Informacoes">Informações</a></li>
+      <li><a href="#Contato">Contato</a></li>
+      <li><a href="#Objetivos">Objetivos</a></li>
+      <li><a href="#Experiencia">Experiência</a></li>
+      <li><a href="#Formacao Academica">Formação Acadêmica</a></li>
+      <li><a href="#Idiomas">Idiomas</a></li>
+      <li><a href="#Habilidades e Competencias">Habilidades e Competências</a></li>
+    </ul>
+  </nav>  
+<!-- INFORMAÇÕES -->    
       <p>
-        <b>INFORMAÇÕES</b>
+    <section id="Informacoes">   
+        <h2>INFORMAÇÕES</h2>
          <li>Nome:  Eduardo Raphael Sarmento Souza</li>
          <li>Data de Nascimento: 03/02/2007</li>
-         <li>Naturalidade: Brasil</li>
+         <li>Naturalidade: Brasília (Brasil)</li>
+    </section> 
           <hr>
       </p>
+<!-- CONTATO -->      
       <p>
-        <b>CONTANTO</b>
+    <section id="Contato">
+        <h3>CONTANTO</h3>
          <li>Email: edurafael4242@gmail.com</li>
          <nav><li>https://github.com/rivoltzz</li></nav>
+    </section>  
           <hr>
       </p>
+<!-- OBJETIVO -->
       <p>
+    <section id="Objetivos">  
+        <h3>OBJETIVOS</h3>
+        <li>Busco aprimorar minha capacidade de programar, desenvolver softwares e trabalhar com sistemas eficientes, sempre buscando otimização e inovação.</li>
+        <li>Além disso, me interesso por áreas como aprendizado de máquina, cibersegurança e computação em nuvem, pois acredito que elas têm um grande impacto no futuro da tecnologia.</li>
+    </section>
+      </p>
+<!-- EXPERIÊNCIA -->      
+      <p>
+    <section id="Experiencia">
         <b>EXPERIÊNCIA</b>
-         <li>Nenhuma</li>
+         <li>(1º emprego)
+          Busca por uma oportunidade para demonstrar talento e
+          habilidades, compensando a falta de experiência com dedicação
+          e empenho.</li>
+    </section>      
           <hr> 
       </p>
-<!FORMULARIOS>
+<!-- FORMULARIOS -->
       <p>
+    <section id="Formacao Academica">    
         <b>FORMAÇÃO ACADÊMICA</b>    
-         <table width="100%" border="1"
+         <table width="60%" border="1"
          style="text-align: center;">
             <tr>
                 <th>Curso/Certificação</th>
@@ -51,11 +84,13 @@
                 <td>Cursando</td>
             </tr>
          </table> 
+    </section>     
          <hr>  
       </p>
         <b>IDIOMAS</b> 
       <p>
-        <table width="100%" border="1"
+    <section id="Idiomas">
+        <table width="50%" border="1"
         style="text-align: center;">
             <tr>
                 <th>Idioma</th>
@@ -70,6 +105,18 @@
                 <td>Iniciante</td>
             </tr>
         </table>
+    </section>    
+        <hr>
+      </p>
+<!-- Habilidades e Competências-->      
+      <p>
+    <section id="Habilidades e Competencias">   
+        <b>HABILIDADES E COMPETÊNCIAS</b>
+        <li>Dinâmico.</li>
+        <li>Facilidade para trabalhar em equipe e aprendizado. </li>
+        <li>Aptidão para identificar problemas e desenvolver soluções para aperfeiçoar a rotina de trabalho. </li>
+        <li>Espírito de liderança. </li>
+    </section> 
       </p>
   </body>
 </html>
