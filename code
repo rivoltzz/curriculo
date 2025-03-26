@@ -62,9 +62,10 @@
     </section>      
           <hr> 
       </p>
-<!-- FORMULARIOS -->
+<!-- PLANILHAS -->
       <p>
-    <section id="Formacao Academica">    
+    <section id="Formacao Academica"> 
+<!-- FORMACAO ACADEMICA -->   
         <b>FORMAÇÃO ACADÊMICA</b>    
          <table width="60%" border="1"
          style="text-align: center;">
@@ -88,6 +89,7 @@
          <hr>  
       </p>
         <b>IDIOMAS</b> 
+<!-- IDIOMAS -->
       <p>
     <section id="Idiomas">
         <table width="50%" border="1"
