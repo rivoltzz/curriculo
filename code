@@ -4,26 +4,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, inital-scale=1.0"> 
     <title>rivoltz</title>
-  </head>
+    <link rel="stylesheet" href="style.css">
+  </head> 
   <body>
-    <img src="https://i.imgur.com/8ebgKn6.png" alt="Icon">
+    <img src="C:\Users\eduardo.sarmento\Documents\Curriculo\img\token_2.png" alt="Icon">
     <main>
       <p>
         <h1>Currículo</h1>
+        <hr>
       </p>
     </main>
-<!-- NAVEGAÇÃO -->    
+<!-- NAVEGAÇÃO --> 
+ <header> 
   <nav>
     <ul>
-      <li><a href="#Informacoes">Informações</a></li>
-      <li><a href="#Contato">Contato</a></li>
-      <li><a href="#Objetivos">Objetivos</a></li>
-      <li><a href="#Experiencia">Experiência</a></li>
-      <li><a href="#Formacao Academica">Formação Acadêmica</a></li>
-      <li><a href="#Idiomas">Idiomas</a></li>
-      <li><a href="#Habilidades e Competencias">Habilidades e Competências</a></li>
+      <a href="#Informacoes">Informações</a>
+      <a href="#Contato">Contato</a>
+      <a href="#Objetivos">Objetivos</a>
+      <a href="#Experiencia">Experiência</a>
+      <a href="#Formacao Academica">Formação Acadêmica</a>
+      <a href="#Idiomas">Idiomas</a>
+      <a href="#Habilidades e Competencias">Habilidades e Competências</a>
     </ul>
-  </nav>  
+  </nav> 
+  <hr> 
+</header>
 <!-- INFORMAÇÕES -->    
       <p>
     <section id="Informacoes">   
@@ -62,10 +67,9 @@
     </section>      
           <hr> 
       </p>
-<!-- PLANILHAS -->
+<!-- FORMULARIOS -->
       <p>
-    <section id="Formacao Academica"> 
-<!-- FORMACAO ACADEMICA -->   
+    <section id="Formacao Academica">    
         <b>FORMAÇÃO ACADÊMICA</b>    
          <table width="60%" border="1"
          style="text-align: center;">
@@ -89,7 +93,6 @@
          <hr>  
       </p>
         <b>IDIOMAS</b> 
-<!-- IDIOMAS -->
       <p>
     <section id="Idiomas">
         <table width="50%" border="1"
@@ -114,11 +117,32 @@
       <p>
     <section id="Habilidades e Competencias">   
         <b>HABILIDADES E COMPETÊNCIAS</b>
-        <li>Dinâmico.</li>
-        <li>Facilidade para trabalhar em equipe e aprendizado. </li>
-        <li>Aptidão para identificar problemas e desenvolver soluções para aperfeiçoar a rotina de trabalho. </li>
-        <li>Espírito de liderança. </li>
+         <li>Dinâmico.</li>
+         <li>Facilidade para trabalhar em equipe e aprendizado. </li>
+         <li>Aptidão para identificar problemas e desenvolver soluções para aperfeiçoar a rotina de trabalho. </li>
+         <li>Espírito de liderança. </li>
     </section> 
+    <hr>
+<!-- Furmulario -->
       </p>
+       <div class="container">
+
+        <div class="form_box">
+            
+          <h2 class="title">Envie sua mensagem</h2>
+           <form action="" method="get">
+            <input type="text" name="name" placeholder="Seu Nome">
+            <input type="text" name="email" placeholder="Seu Email">
+            <input type="text" name="subject" placeholder="Assunto">
+             <textarea name="message" placeholder="Digite sua mensagem"></textarea>
+              <button type="submit">Enviar mensagem</button>
+           </form>
+        </div> 
+       </div>
+      <footer>
+        <p>
+          <h6>Copyright© Todos os direitos reservados a Eduardo Raphael Sarmento Souza / Lei nº 9.610</h6>
+      </footer>
+        </p>  
   </body>
 </html>
